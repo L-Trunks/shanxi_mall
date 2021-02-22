@@ -4,7 +4,7 @@
       <router-link to="/">
         <div class="search_left">
           <h2>山西美食地图</h2>
-          <span>Agricultural Products Mall</span>
+          <span>Shanxi Food Mall</span>
         </div>
       </router-link>
       <div class="search_center">

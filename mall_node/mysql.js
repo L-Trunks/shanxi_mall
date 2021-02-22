@@ -6,7 +6,7 @@ export class _mysql {
         this.connection = this.mysql.createConnection({
             host: 'localhost',
             user: 'root',  //用户名
-            password: 'toot',   //密码
+            password: 'root',   //密码
             database: 'mall',
             port: '3306'     //端口号
         });
